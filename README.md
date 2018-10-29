@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# workshopGit
+wksho github
+>>>>>>> d0821f5a4345e5d431ff107203505f9f394f0b8f
